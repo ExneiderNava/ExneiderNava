@@ -9,6 +9,8 @@
 - 💻 Software developer
 - 📲 Mobile developer
 - 🌐 Web developer
+- 📱 My phone number -> +573167221636
+- 📧 Email -> exneidernava9@gmail.com
 
 <br>
 
