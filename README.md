@@ -4,15 +4,15 @@
 <img src="https://i.imgur.com/01S8reL.jpeg">
 
 
-## Sobre mi
+## about me
 
 - 💻 Software developer
 - 📲 Mobile developer
-- 🌐 Wev developer
+- 🌐 Web developer
 
 <br>
 
-## Proyectos
+## Projects
 
 <h3 align="center">training project</h3>
 <h4 align="center">Application to optimize the purchasing and sales process in the school cafeteria</h4>
@@ -26,14 +26,14 @@
     </a>
   </p>
   <p>
-    Esta es una aplicación Android desarrollada en Kotlin con XML, que permite gestionar productos, ventas y compras dentro de la cafetería escolar.
+    This is an Android application developed in Kotlin with XML, which allows you to manage products, sales, and purchases within the school cafeteria.
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/ExneiderNava">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ExneiderNava&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ExneiderNava&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
