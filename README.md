@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
     </a>
     <a href="https://www.figma.com/proto/ihqhvGcd8VvxyE5GLJ3adV/Untitled?node-id=2-3&p=f&t=47Ug8YhLPcg1N619-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3" target="_blank">
-      <img src="https://img.shields.io/badge/-Figma-ff9?style=for-the-badge&logo=figma&logoColor=multi">
+      <img src="https://img.shields.io/badge/-Figma-ff9?style=for-the-badge&logo=figma&logoColor=black">
     </a>
   </p>
   <p>
