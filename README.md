@@ -11,6 +11,7 @@
 - 🌐 Web developer
 - 📱 My phone number -> +573167221636
 - 📧 Email -> exneidernava9@gmail.com
+- 📄 [My CV (Google Drive)](https://drive.google.com/file/d/1qRAtieB0G238xnFVtCkYz21TeBVs_4X3/view?usp=sharing)
 
 <br>
 
