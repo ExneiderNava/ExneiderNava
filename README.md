@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Exneider Nava👋</h1>
 </div>
-<img src="https://i.imgur.com/01S8reL.jpeg">
+<img src="https://imgur.com/a/jli444I">
 
 
 ## about me
