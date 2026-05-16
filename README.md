@@ -56,19 +56,15 @@
 
   <td align="center" width="31%" valign="top">
       <br>
-      <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_3" target="_blank">
+      <a href="https://ventacucuta.com" target="_blank">
         <img src="https://i.imgur.com/qUuzKNN.png" width="110" height="110" alt="Project 3">
       </a>
       <br><br>
-      <h3><b>Project Name Three</b></h3>
+      <h3><b>ventacucuta.com</b></h3>
       <p align="center">
-        <kbd>Tech 1</kbd> &nbsp; <kbd>Tech 2</kbd>
+        <kbd>Wordpress</kbd> &nbsp; <kbd>Hostinger</kbd>
       </p>
-      <p align="center">Coloca aquí una pequeña descripción corta del proyecto que explique qué tecnologías usaste y cuál es su objetivo principal de forma concisa.</p>
-      <br>
-      <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_3" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-      </a>
+      <p align="center">ventacucuta.com is my personal project, an ecommerce site designed for online sales with a complete ecosystem supporting the purchase process from product selection to payment and shipping. It was created with WordPress and some features designed with custom plugins based on PHP, JavaScript, and...</p>
       <br><br>
     </td>
   </tr>
