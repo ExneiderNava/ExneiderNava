@@ -68,7 +68,7 @@
   <td align="center" width="31%" valign="top">
       <br>
       <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_3" target="_blank">
-        <img src="https://i.imgur.com/uHe3noW.png" width="110" height="110" alt="Project 3">
+        <img src="https://i.imgur.com/jmxFbnC.png" width="110" height="110" alt="Project 3">
       </a>
       <br><br>
       <h3><b>Project Name Three</b></h3>
