@@ -22,14 +22,16 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33.3%" style="border: none; padding: 10px; vertical-align: top;">
-      <div style="background: #1f2328; border: 1px solid #30363d; border-radius: 10px; padding: 20px; min-height: 320px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <!-- MEDALLA 1: CAFETERIA SCHOOL -->
+    <td align="center" width="50%" style="border: none; padding: 15px;">
+      <div style="background: #1f2328; border: 1px solid #30363d; border-radius: 10px; padding: 20px; min-height: 280px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <!-- Animación de Brinco/Zoom en GitHub se logra mejor envolviendo la imagen con transformación de escala al interactuar -->
         <a href="https://github.com/ExneiderNava/CodigoProyecto.git" target="_blank">
-          <img src="https://i.imgur.com/uHe3noW.png" width="110" height="110" alt="Cafeteria Project" style="border-radius: 50%; object-fit: cover; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'" onmouseout="this.style.transform='scale(1) translateY(0)'">
+          <img src="https://i.imgur.com/uHe3noW.png" width="120" height="120" alt="Cafeteria Project" style="border-radius: 50%; object-fit: cover; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'" onmouseout="this.style.transform='scale(1) translateY(0)'">
         </a>
-        <h4 style="margin-top: 15px;">Application to optimize the purchasing and sales process in the school cafeteria</h4>
-        <p style="font-size: 13px; color: #8b949e; line-height: 1.4;">This is an Android application developed in Kotlin with XML, which allows you to manage products, sales, and purchases within the school cafeteria.</p>
-        <p style="margin-top: 15px;">
+        <h4>Application to optimize the purchasing and sales process in the school cafeteria</h4>
+        <p style="font-size: 13px; color: #8b949e;">This is an Android application developed in Kotlin with XML, which allows you to manage products, sales, and purchases within the school cafeteria.</p>
+        <p>
           <a href="https://github.com/ExneiderNava/CodigoProyecto.git" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
@@ -40,30 +42,16 @@
       </div>
     </td>
 
-    <td align="center" width="33.3%" style="border: none; padding: 10px; vertical-align: top;">
-      <div style="background: #1f2328; border: 1px solid #30363d; border-radius: 10px; padding: 20px; min-height: 320px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <!-- MEDALLA 2: PROYECTO FUTURO (PLANTILLA) -->
+    <td align="center" width="50%" style="border: none; padding: 15px;">
+      <div style="background: #1f2328; border: 1px solid #30363d; border-radius: 10px; padding: 20px; min-height: 280px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_2" target="_blank">
-          <img src="PON_AQUI_LA_URL_DE_LA_FOTO_DE_LA_MEDALLA_2" width="110" height="110" alt="Project 2" style="border-radius: 50%; object-fit: cover; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'" onmouseout="this.style.transform='scale(1) translateY(0)'">
+          <img src="PON_AQUI_LA_URL_DE_LA_FOTO_DE_LA_MEDALLA_2" width="120" height="120" alt="Project 2" style="border-radius: 50%; object-fit: cover; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'" onmouseout="this.style.transform='scale(1) translateY(0)'">
         </a>
-        <h4 style="margin-top: 15px;">Nombre de tu Segundo Proyecto</h4>
-        <p style="font-size: 13px; color: #8b949e; line-height: 1.4;">Coloca aquí una pequeña descripción corta del proyecto que explique qué tecnologías usaste y cuál es su objetivo principal.</p>
-        <p style="margin-top: 15px;">
+        <h4>Nombre de tu Segundo Proyecto</h4>
+        <p style="font-size: 13px; color: #8b949e;">Coloca aquí una pequeña descripción corta del proyecto que explique qué tecnologías usaste y cuál es su objetivo principal.</p>
+        <p>
           <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_2" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-        </p>
-      </div>
-    </td>
-
-    <td align="center" width="33.3%" style="border: none; padding: 10px; vertical-align: top;">
-      <div style="background: #1f2328; border: 1px solid #30363d; border-radius: 10px; padding: 20px; min-height: 320px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_3" target="_blank">
-          <img src="PON_AQUI_LA_URL_DE_LA_FOTO_DE_LA_MEDALLA_3" width="110" height="110" alt="Project 3" style="border-radius: 50%; object-fit: cover; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'" onmouseout="this.style.transform='scale(1) translateY(0)'">
-        </a>
-        <h4 style="margin-top: 15px;">Nombre de tu Tercer Proyecto</h4>
-        <p style="font-size: 13px; color: #8b949e; line-height: 1.4;">Coloca aquí una pequeña descripción corta del proyecto que explique qué tecnologías usaste y cuál es su objetivo principal.</p>
-        <p style="margin-top: 15px;">
-          <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_3" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
