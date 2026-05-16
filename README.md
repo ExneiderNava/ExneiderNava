@@ -32,7 +32,7 @@
       <p align="center">
         <kbd>PHP</kbd> &nbsp; <kbd>SQL</kbd> &nbsp; <kbd>HTML, CSS and JavaScript</kbd>
       </p>
-      <p align="center">Digipunch is a web app designed for the Ebenezer school to optimize and digitize the buying and selling process in the school cafeteria. It was built using PHP for the backend and HTML, CSS, and JavaScript for the frontend, supported by the Bootstrap library. SQL was used for the database.</p>
+      <p align="center">DigiLunch is a web app designed for the Ebenezer school to optimize and digitize the buying and selling process in the school cafeteria. It was built using PHP for the backend and HTML, CSS, and JavaScript for the frontend, supported by the Bootstrap library. SQL was used for the database.</p>
       <br><br>
     </td>
 
