@@ -24,22 +24,15 @@
   <tr>
     <td align="center" width="31%" valign="top">
       <br>
-      <a href="https://github.com/ExneiderNava/CodigoProyecto.git" target="_blank">
+      <a href="https://github.com/ExneiderNava/DigiLunch-Version-Movil.git" target="_blank">
         <img src="https://api.iconify.design/bi/shop.svg?color=%23ffffff" width="75" height="75" alt="Cafeteria Store Icon">
       </a>
       <br><br>
       <h3><b>DigiLunch for Ebenezer School of Cúcuta</b></h3>
       <p align="center">
-        <kbd>Laravel</kbd> &nbsp; <kbd>PHP</kbd> &nbsp; <kbd>HTML, CSS and JavaScript</kbd>
+        <kbd>PHP</kbd> &nbsp; <kbd>SQL</kbd> &nbsp; <kbd>HTML, CSS and JavaScript</kbd>
       </p>
       <p align="center">An application designed to manage and optimize the complete purchasing and sales process within the school cafeteria seamlessly.</p>
-      <br>
-      <a href="https://github.com/ExneiderNava/CodigoProyecto.git" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-      <a href="https://www.figma.com/proto/ihqhvGcd8VvxyE5GLJ3adV/Untitled?node-id=2-3&p=f&t=47Ug8YhLPcg1N619-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3" target="_blank">
-        <img src="https://img.shields.io/badge/-Figma-ff9?style=for-the-badge&logo=figma&logoColor=black">
-      </a>
       <br><br>
     </td>
 
