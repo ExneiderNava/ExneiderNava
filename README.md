@@ -19,6 +19,7 @@
 <h3 align="center">🏆 Featured Projects</h3>
 <p align="center">A collection of my recent work and training projects</p>
 
+<p align="center">
 <table align="center" width="100%">
   <tr>
     <td align="center" width="31%" valign="top">
@@ -83,6 +84,7 @@
     </td>
   </tr>
 </table>
+</p>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
