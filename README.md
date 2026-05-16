@@ -48,7 +48,7 @@
   <td align="center" width="31%" valign="top">
       <br>
       <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_2" target="_blank">
-        <img src="https://i.imgur.com/uHe3noW.png" width="110" height="110" alt="Project 2">
+        <img src="https://api.iconify.design/mdi/calendar-clock-outline.svg?color=%23ffffff" width="75" height="75" alt="Reservation Management Icon">
       </a>
       <br><br>
       <h3><b>Project Name Two</b></h3>
