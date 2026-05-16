@@ -28,11 +28,11 @@
         <img src="https://api.iconify.design/bi/shop.svg?color=%23ffffff" width="75" height="75" alt="Cafeteria Store Icon">
       </a>
       <br><br>
-      <h3><b>DigiLunch for Ebenezer School of Cúcuta</b></h3>
+      <h3><b>DigiLunch</b></h3>
       <p align="center">
         <kbd>PHP</kbd> &nbsp; <kbd>SQL</kbd> &nbsp; <kbd>HTML, CSS and JavaScript</kbd>
       </p>
-      <p align="center">An application designed to manage and optimize the complete purchasing and sales process within the school cafeteria seamlessly.</p>
+      <p align="center">Digipunch is a web app designed for the Ebenezer school to optimize and digitize the buying and selling process in the school cafeteria. It was built using PHP for the backend and HTML, CSS, and JavaScript for the frontend, supported by the Bootstrap library. SQL was used for the database.</p>
       <br><br>
     </td>
 
@@ -40,19 +40,15 @@
 
   <td align="center" width="31%" valign="top">
       <br>
-      <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_2" target="_blank">
+      <a href="https://github.com/ExneiderNava/SmartFlow.git" target="_blank">
         <img src="https://api.iconify.design/mdi/calendar-clock-outline.svg?color=%23ffffff" width="75" height="75" alt="Reservation Management Icon">
       </a>
       <br><br>
-      <h3><b>Project Name Two</b></h3>
+      <h3><b>Smart Flow</b></h3>
       <p align="center">
-        <kbd>Tech 1</kbd> &nbsp; <kbd>Tech 2</kbd>
+        <kbd>Laravel</kbd> &nbsp; <kbd>PHP</kbd>
       </p>
-      <p align="center">Coloca aquí una pequeña descripción corta del proyecto que explique qué tecnologías usaste y cuál es su objetivo principal de forma concisa.</p>
-      <br>
-      <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_2" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-      </a>
+      <p align="center">Reservation manager designed for the Ebenezer school, where the classroom reservation system is managed and organized. This system was created with Laravel based on PHP for the backend and for the frontend HTML, CSS, and JavaScript were used, along with an SQL database.</p>
       <br><br>
     </td>
 
