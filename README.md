@@ -21,15 +21,17 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33.3%" valign="top">
+    <td align="center" width="31%" valign="top">
       <br>
       <a href="https://github.com/ExneiderNava/CodigoProyecto.git" target="_blank">
-        <img src="https://i.imgur.com/uHe3noW.png" width="120" height="120" alt="Cafeteria Project" border="2" style="border-color: #ff9;">
+        <img src="https://i.imgur.com/uHe3noW.png" width="110" height="110" alt="Cafeteria Project">
       </a>
       <br><br>
       <h3><b>Cafeteria Optimization</b></h3>
-      <p align="center"><i>Android App • Kotlin & XML</i></p>
-      <p align="justify">An application designed to manage and optimize the complete purchasing and sales process within the school cafeteria seamlessly.</p>
+      <p align="center">
+        <kbd>Kotlin</kbd> &nbsp; <kbd>XML</kbd> &nbsp; <kbd>Android</kbd>
+      </p>
+      <p align="center">An application designed to manage and optimize the complete purchasing and sales process within the school cafeteria seamlessly.</p>
       <br>
       <a href="https://github.com/ExneiderNava/CodigoProyecto.git" target="_blank">
         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -40,15 +42,19 @@
       <br><br>
     </td>
 
-  <td align="center" width="33.3%" valign="top">
+  <td width="3.5%"></td>
+
+  <td align="center" width="31%" valign="top">
       <br>
       <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_2" target="_blank">
-        <img src="https://i.imgur.com/uHe3noW.png" width="120" height="120" alt="Project 2" border="2" style="border-color: #ff9;">
+        <img src="https://i.imgur.com/uHe3noW.png" width="110" height="110" alt="Project 2">
       </a>
       <br><br>
       <h3><b>Project Name Two</b></h3>
-      <p align="center"><i>Platform • Tech Stack</i></p>
-      <p align="justify">Coloca aquí una pequeña descripción corta del proyecto que explique qué tecnologías usaste y cuál es su objetivo principal de forma concisa.</p>
+      <p align="center">
+        <kbd>Tech 1</kbd> &nbsp; <kbd>Tech 2</kbd>
+      </p>
+      <p align="center">Coloca aquí una pequeña descripción corta del proyecto que explique qué tecnologías usaste y cuál es su objetivo principal de forma concisa.</p>
       <br>
       <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_2" target="_blank">
         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -56,15 +62,19 @@
       <br><br>
     </td>
 
-  <td align="center" width="33.3%" valign="top">
+  <td width="3.5%"></td>
+
+  <td align="center" width="31%" valign="top">
       <br>
       <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_3" target="_blank">
-        <img src="https://i.imgur.com/uHe3noW.png" width="120" height="120" alt="Project 3" border="2" style="border-color: #ff9;">
+        <img src="https://i.imgur.com/uHe3noW.png" width="110" height="110" alt="Project 3">
       </a>
       <br><br>
       <h3><b>Project Name Three</b></h3>
-      <p align="center"><i>Platform • Tech Stack</i></p>
-      <p align="justify">Coloca aquí una pequeña descripción corta del proyecto que explique qué tecnologías usaste y cuál es su objetivo principal de forma concisa.</p>
+      <p align="center">
+        <kbd>Tech 1</kbd> &nbsp; <kbd>Tech 2</kbd>
+      </p>
+      <p align="center">Coloca aquí una pequeña descripción corta del proyecto que explique qué tecnologías usaste y cuál es su objetivo principal de forma concisa.</p>
       <br>
       <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_3" target="_blank">
         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -73,7 +83,6 @@
     </td>
   </tr>
 </table>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
