@@ -28,9 +28,9 @@
         <img src="https://i.imgur.com/uHe3noW.png" width="110" height="110" alt="Cafeteria Project">
       </a>
       <br><br>
-      <h3><b>Cafeteria Optimization</b></h3>
+      <h3><b>DigiLunch for Ebenezer School of Cúcuta</b></h3>
       <p align="center">
-        <kbd>Kotlin</kbd> &nbsp; <kbd>XML</kbd> &nbsp; <kbd>Android</kbd>
+        <kbd>Laravel</kbd> &nbsp; <kbd>PHP</kbd> &nbsp; <kbd>HTML, CSS and JavaScript</kbd>
       </p>
       <p align="center">An application designed to manage and optimize the complete purchasing and sales process within the school cafeteria seamlessly.</p>
       <br>
