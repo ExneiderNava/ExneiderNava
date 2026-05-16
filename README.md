@@ -21,55 +21,59 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33.3%" style="border: none; padding: 10px; vertical-align: top;">
-      <div style="background: #1f2328; border: 1px solid #30363d; border-radius: 10px; padding: 20px; min-height: 320px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <a href="https://github.com/ExneiderNava/CodigoProyecto.git" target="_blank">
-          <img src="https://i.imgur.com/uHe3noW.png" width="110" height="110" alt="Cafeteria Project" style="border-radius: 50%; object-fit: cover; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'" onmouseout="this.style.transform='scale(1) translateY(0)'">
-        </a>
-        <h4 style="margin-top: 15px;">Application to optimize the purchasing and sales process in the school cafeteria</h4>
-        <p style="font-size: 13px; color: #8b949e; line-height: 1.4;">This is an Android application developed in Kotlin with XML, which allows you to manage products, sales, and purchases within the school cafeteria.</p>
-        <p style="margin-top: 15px;">
-          <a href="https://github.com/ExneiderNava/CodigoProyecto.git" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://www.figma.com/proto/ihqhvGcd8VvxyE5GLJ3adV/Untitled?node-id=2-3&p=f&t=47Ug8YhLPcg1N619-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3" target="_blank">
-            <img src="https://img.shields.io/badge/-Figma-ff9?style=for-the-badge&logo=figma&logoColor=black">
-          </a>
-        </p>
-      </div>
+    <td align="center" width="33.3%" valign="top">
+      <br>
+      <a href="https://github.com/ExneiderNava/CodigoProyecto.git" target="_blank">
+        <img src="https://i.imgur.com/uHe3noW.png" width="120" height="120" alt="Cafeteria Project" border="2" style="border-color: #ff9;">
+      </a>
+      <br><br>
+      <h3><b>Cafeteria Optimization</b></h3>
+      <p align="center"><i>Android App • Kotlin & XML</i></p>
+      <p align="justify">An application designed to manage and optimize the complete purchasing and sales process within the school cafeteria seamlessly.</p>
+      <br>
+      <a href="https://github.com/ExneiderNava/CodigoProyecto.git" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+      <a href="https://www.figma.com/proto/ihqhvGcd8VvxyE5GLJ3adV/Untitled?node-id=2-3&p=f&t=47Ug8YhLPcg1N619-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3" target="_blank">
+        <img src="https://img.shields.io/badge/-Figma-ff9?style=for-the-badge&logo=figma&logoColor=black">
+      </a>
+      <br><br>
     </td>
 
-  <td align="center" width="33.3%" style="border: none; padding: 10px; vertical-align: top;">
-      <div style="background: #1f2328; border: 1px solid #30363d; border-radius: 10px; padding: 20px; min-height: 320px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_2" target="_blank">
-          <img src="PON_AQUI_LA_URL_DE_LA_FOTO_DE_LA_MEDALLA_2" width="110" height="110" alt="Project 2" style="border-radius: 50%; object-fit: cover; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'" onmouseout="this.style.transform='scale(1) translateY(0)'">
-        </a>
-        <h4 style="margin-top: 15px;">Nombre de tu Segundo Proyecto</h4>
-        <p style="font-size: 13px; color: #8b949e; line-height: 1.4;">Coloca aquí una pequeña descripción corta del proyecto que explique qué tecnologías usaste y cuál es su objetivo principal.</p>
-        <p style="margin-top: 15px;">
-          <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_2" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-        </p>
-      </div>
+  <td align="center" width="33.3%" valign="top">
+      <br>
+      <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_2" target="_blank">
+        <img src="https://i.imgur.com/uHe3noW.png" width="120" height="120" alt="Project 2" border="2" style="border-color: #ff9;">
+      </a>
+      <br><br>
+      <h3><b>Project Name Two</b></h3>
+      <p align="center"><i>Platform • Tech Stack</i></p>
+      <p align="justify">Coloca aquí una pequeña descripción corta del proyecto que explique qué tecnologías usaste y cuál es su objetivo principal de forma concisa.</p>
+      <br>
+      <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_2" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+      <br><br>
     </td>
 
-  <td align="center" width="33.3%" style="border: none; padding: 10px; vertical-align: top;">
-      <div style="background: #1f2328; border: 1px solid #30363d; border-radius: 10px; padding: 20px; min-height: 320px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_3" target="_blank">
-          <img src="PON_AQUI_LA_URL_DE_LA_FOTO_DE_LA_MEDALLA_3" width="110" height="110" alt="Project 3" style="border-radius: 50%; object-fit: cover; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'" onmouseout="this.style.transform='scale(1) translateY(0)'">
-        </a>
-        <h4 style="margin-top: 15px;">Nombre de tu Tercer Proyecto</h4>
-        <p style="font-size: 13px; color: #8b949e; line-height: 1.4;">Coloca aquí una pequeña descripción corta del proyecto que explique qué tecnologías usaste y cuál es su objetivo principal.</p>
-        <p style="margin-top: 15px;">
-          <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_3" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-        </p>
-      </div>
+  <td align="center" width="33.3%" valign="top">
+      <br>
+      <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_3" target="_blank">
+        <img src="https://i.imgur.com/uHe3noW.png" width="120" height="120" alt="Project 3" border="2" style="border-color: #ff9;">
+      </a>
+      <br><br>
+      <h3><b>Project Name Three</b></h3>
+      <p align="center"><i>Platform • Tech Stack</i></p>
+      <p align="justify">Coloca aquí una pequeña descripción corta del proyecto que explique qué tecnologías usaste y cuál es su objetivo principal de forma concisa.</p>
+      <br>
+      <a href="PON_AQUI_EL_LINK_DE_GITHUB_DE_TU_PROYECTO_3" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+      <br><br>
     </td>
   </tr>
 </table>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
