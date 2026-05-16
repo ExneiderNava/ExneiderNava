@@ -25,7 +25,7 @@
     <td align="center" width="31%" valign="top">
       <br>
       <a href="https://github.com/ExneiderNava/CodigoProyecto.git" target="_blank">
-        <img src="https://i.imgur.com/uHe3noW.png" width="110" height="110" alt="Cafeteria Project">
+        <img src="https://simpleicons.org/icons/coffeescript.svg" width="110" height="110" alt="Cafeteria Project">
       </a>
       <br><br>
       <h3><b>DigiLunch for Ebenezer School of Cúcuta</b></h3>
