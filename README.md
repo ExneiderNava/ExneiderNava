@@ -11,7 +11,7 @@
 - 🌐 Web developer
 - 📱 My phone number -> [+573167221636](https://wa.me/573167221636)
 - 📧 Email -> [exneidernava9@gmail.com](mailto:exneidernava9@gmail.com?subject=Contacto%20desde%20GitHub)
-- 🤵 My CV -> [📄](https://drive.google.com/file/d/1vOiPnzY_3Vprv5PeawUQw36aMRMkc2dg/view?usp=sharing)
+- 🤵 My CV -> [📄](https://drive.google.com/file/d/1R7NJhFlotIoPs2j57kKM21FGxEuH_kAq/view?usp=sharing)
 
 <br>
 
